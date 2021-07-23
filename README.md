@@ -74,6 +74,7 @@ ___
 
 **Vocabulary:** object, class, attributes
 ___
+
 As students walk in the room, each is given a card: playing card, Uno card, Yu-Gi-Oh card, etc.
 Students are asked to find others like themselves.
 
